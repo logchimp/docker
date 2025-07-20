@@ -1,5 +1,8 @@
 # 🚧 W.I.P LogChimp Docker image
 
+> This repository is archieved and no longer maintained.
+> LogChimp Docker images source files are moved to [logchimp/logchimp](https://github.com/logchimp/logchimp) repository.
+
 ![Docker](https://github.com/logchimp/docker/workflows/Docker/badge.svg?branch=master)
 
 ### Deploy LogChimp site
